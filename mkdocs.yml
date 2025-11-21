@@ -6,7 +6,7 @@ site_author: Sergio Casado
 nav:
   - Home: index.md
   - SASP: sostenibilidad.md
-  - ODS: ods.md
+  - ODS: ods12.md
   - Reflexiones: reflexiones.md
 
 theme:

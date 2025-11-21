@@ -1,0 +1,18 @@
+site_name: SASP Fase 1
+repo_url: https://github.com/scassanc/SASP_Fase1_Web
+site_description: Tarea de sostenibilidad
+site_author: Sergio Casado
+
+nav:
+  - Home: index.md
+  - SASP: sostenibilidad.md
+  - ODS: ods.md
+  - Reflexiones: reflexiones.md
+
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: orange
+
+language: es
